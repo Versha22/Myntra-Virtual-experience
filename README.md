@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # Myntra Virtual Shopping Experience
 
 Welcome to MetaCommerce – the future of online shopping using immersive technologies!
