@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.rest{
+    height: 91.9vh;
+    font-family:'Poppins','sans-serif';
+    background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);
+    background: linear-gradient(to right, #ffdde1, #ee9ca7);
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    background-image: url("pics/Myntra\ Logo.jpg");
+    background-size:contain;
+    height: 50px;
+    width: 50px;
+    margin-left: 3px;
+    margin-top: 2px;
+    margin-right: 10px;
+}
+.navsearch{
+    display: inline-flex;
+    color: black;
+    align-items: center;
+    height: 35px;
+    width: 600px;
+    border-radius: 4px;
+}
+#share-button{
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    
+    button:hover {
+        background-color: #0056b3;
+    }
+.influencer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+/* Basic styling for influencer cards */
+.influencer-card {
+    background-color: beige;
+    height: 310px;
+    width: 200px;
+    border: 1px solid #888;
+    border-radius: 5%;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.influencer-card img {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+button {
+    margin-top: 10px;
+    height: 30px;
+    width: 75px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#btn{
+    background-color: rgb(4, 104, 81);
+    height: 30px;
+    width: 125px;
+}
+
+#share-button{
+    width: 155px;
+    background-color: rgb(4, 104, 81);
+}
+.footer {
+    background-color: #4fad93;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    font-size: 1rem;
+}
