@@ -1,13 +1,15 @@
-##### By Team "We_Do_It_With_Cookies"
+##### By Versha
 
-#  MetaCommerce - A future of shopping  in MetaVerse
+#  MetaCommerce: The Future of Shopping in the Metaverse
 
-* How about changing the whole shopping experience to a more realistic one ..? <br />
-* How about having fun and enjoying the feel of being at places like "shopping malls"  without actually being there and from the comfort of your home ..?<br /> 
-* How about owning your product not only in the real world but in digital world as well ?<br />
+Imagine transforming the way you shop — not just scrolling through static pages, but walking through a virtual Myntra store, picking up items, and experiencing the vibe of a real mall, all from the comfort of your home.
+What if shopping could be:
+
+* Immersive, like visiting a shopping mall without stepping out? <br />
+* Interactive, where you can engage with products, try them virtually, and get recommendations?<br /> 
+* Cross-reality, where you own the product not just in the physical world but also in your digital wardrobe?<br />
 <br />
 
-* **Sounds cool right ??** <br />
 
 <p align="center">
   <img src="https://bafybeidjwukipmza2eocekav3l7i75uf6335fn7gqaxfeqinbcvvaycyem.ipfs.dweb.link/?filename=Screenshot%2520%252833%2529.png" alt="animated" />
@@ -18,8 +20,6 @@ So here we bring you "Flipkart's 3D virtual world" <br />
 * Decentraland is a 3D virtual world browser-based platform. Users may buy virtual plots of land in the platform as NFTs via the MANA cryptocurrency, which uses the    Ethereum blockchain.
 * Mana Tokens - In-game ERC-20 cryptocurrency of Decentraland used to trade land and other goods(wearables,objects etc) in the virtual world.
 
-## Demo video link
-🟡[Demo Video Link (GoogleDrive)](https://drive.google.com/file/d/1GOG08OZHiCUhxqW914xlhj9qCPoCGE_z/view?usp=sharing)
 
 ## Screenshots 
 
@@ -31,21 +31,11 @@ So here we bring you "Flipkart's 3D virtual world" <br />
 
 
 ## Table of Contents
-  - [UseCases](#usecases)
   - [Features](#features)
   - [TechStack](#techstack)
   - [Installation](#installation)
-  - [Documentation](#documentation)
   - [Authors](#authors)
   
-## UseCases
-* Our solution keeps users more engaged to the 3D world with interactive UI, which helps in attracting more and more customers.It also has customizable Avatar generation feature along with some in-built wearables provided by dcl.
-
-* On purchasing any product, along with the product the user even gets the NFT of the product which gives them the ownership for the product in digital world as well. Using this he/she can flaunt about it digitally as well.
-
-* User gets a 3D view of the product in the shop which makes it look more realistic and the AR view will basically help to enable the “try on apparel” feature.
-
-* Our solution provides both types of buying features,i.e,buying items from the Metacommerce using “MANA tokens” or buying it through Flipkart’s website whose link is provided in the respective 3D models.
 
 ## Features
 * **3D space/Avatar** :-The 3D space which we are using here is the Decentraland which is a virtual world and gives numerous features.One of them is building customizable avatars which helps the user to give itself a unique identity.
@@ -104,25 +94,8 @@ npm i -g decentraland
 ```bash
 dcl start
 ```
-## Documentation
-
-[PPT Documentation](https://drive.google.com/file/d/192TvsyfbdwjmdQRYeYozvTWteCe0S09S/view?usp=sharing)
-
-## Future Aspects
- * Firstly, the *“purchasing”* of product by the user.What we have planned to do is that we will generate a *NFT* of each product.Now the user will purchase the product using the *“MANA tokens”* as currency and in return the NFT of that product will be *transferred* to the user.In this way the user can even flaunt about the item which they own *digitally* as well.Now this product gets delivered to the user in real world.So this is how the metaverse will work -it will connect the virtual world created to the real world we live in !
-
-* Secondly,adding *“Your Orders”* section to create a *“Flipkart wallet”* where all the NFT’s owned by the user will be visible.
-
-* We are even working on the *“camera enabling” feature* , where multiple users can *video chat* with each other ! 
 
 ## Authors
 
-  > [Tanisha Bhadani](https://github.com/tanisha-bhadani)
-  
-  > [Rahul Verma](https://github.com/inexorable23)
-  
-  > [Saurabh Tripathi](https://github.com/st2251)
- 
-#### Made with perseverance and love by 
-#### Team We_Do_It_With_Cookies ❤️
-#### As a solution for Level-2 problem statement given by Flipkart in Flipkart GRID4.0 Hackathon Challenge
+  > [Versha](https://github.com/Versha22)
+
