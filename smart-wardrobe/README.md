@@ -36,9 +36,6 @@ npm start
 ```
 5. Access the Smart Wardrobe system by visiting http://localhost:3000 in your web browser.
 
-## Demo
-
-![smart-wardrobe-demo](https://github.com/kkulykk/smart-wardrobe/assets/72144618/ff8f6b8f-71ac-4dd7-a357-f8d0e085d6b4)
 
 
 ## Contributing
@@ -51,4 +48,4 @@ The Smart Wardrobe project is licensed under the [MIT License](LICENSE "target=_
 We would like to thank the open-source community for their valuable contributions to the technologies used in this project.
 
 ## Contact
-For any inquiries or questions, please contact [Roman Kulyk](https://github.com/kkulykk "target=_new") or [Oleksandra Tsepilova](https://github.com/sasha-tsepilova "target=_new")
+For any inquiries or questions, please contact [Versha](https://github.com/Versha22 "target=_new")
