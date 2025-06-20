@@ -72,7 +72,7 @@ npm i -g decentraland
 ### Clone the project:
 
 ```bash
-  git clone https://github.com/st2251/Flipkart-Store-in-MetaVerse.git
+  git clone https://github.com/Versha22/Virtual-Store.git
 ```
 * Go to the project directory
 
